@@ -1,0 +1,30 @@
+{
+  "name": "simple-gcp-logging",
+  "version": "1.0.0",
+  "description": "Easy packet to send log in GCP Logging",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HDRUK/simple-gcp-logging.git"
+  },
+  "keywords": [
+    "npm",
+    "module",
+    "package",
+    "google",
+    "gcp",
+    "logging"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HDRUK/simple-gcp-logging/issues"
+  },
+  "homepage": "https://github.com/HDRUK/simple-gcp-logging#readme",
+  "dependencies": {
+    "@google-cloud/logging": "^9.6.3"
+  }
+}
