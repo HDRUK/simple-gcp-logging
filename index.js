@@ -1,3 +1,3 @@
-const LoggerGCP = require('./classes/logger');
+import LoggerGCP from './classes/logger';
 
 module.exports = LoggerGCP;
