@@ -19,7 +19,7 @@
     "logging"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/HDRUK/simple-gcp-logging/issues"
   },

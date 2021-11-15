@@ -1,3 +1,5 @@
+"use strict";
+
 import { Logging } from '@google-cloud/logging';
 
 class LoggerGCP {
