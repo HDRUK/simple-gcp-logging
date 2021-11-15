@@ -1,3 +1,3 @@
-import LoggerGCP from './classes/logger';
+const LoggerGCP = require('./classes/logger');
 
 export default LoggerGCP;
