@@ -1,3 +1,3 @@
 import LoggerGCP from './classes/logger';
 
-module.exports = LoggerGCP;
+export default LoggerGCP;
