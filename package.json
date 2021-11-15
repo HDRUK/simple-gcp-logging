@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Easy packet to send log in GCP Logging",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "npm test"
   },
