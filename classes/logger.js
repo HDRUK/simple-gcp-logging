@@ -1,6 +1,4 @@
-"use strict";
-
-import { Logging } from '@google-cloud/logging';
+const Logging = require('@google-cloud/logging');
 
 class LoggerGCP {
     _loggingProjectId;
