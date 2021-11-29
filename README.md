@@ -25,3 +25,12 @@ export default class LoggingService {
     }
 }
 ```
+
+#### Google Cloud permissions
+check permissions in your project for `Google Logging`
+
+#### Google Local - configuration
+
+- Download `GCloud` SDK: `https://cloud.google.com/sdk/docs/install`;
+- initialize Cloud SDK: `https://cloud.google.com/sdk/docs/initializing`;
+- Authorizing Cloud SDK tools: `https://cloud.google.com/sdk/docs/authorizing`;
